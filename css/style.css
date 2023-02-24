@@ -19,3 +19,8 @@ h1 {
   top: 0;
   text-align: center;
 }
+@media screen and (max-width: 980px){
+  body {
+      background-color: brown;
+  }
+}
