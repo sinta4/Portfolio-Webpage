@@ -1,0 +1,21 @@
+body {
+  background-color: aquamarine;
+}
+
+h1 {
+  padding-top: 100px;
+}
+
+#welcome-section {
+  height: 100vh;
+}
+
+#navbar {
+  position: fixed;
+  padding-top: 10px;
+  background-color: yellowgreen;
+  right: 0;
+  left: 0;
+  top: 0;
+  text-align: center;
+}
